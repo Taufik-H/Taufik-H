@@ -1,11 +1,16 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H)](https://github.com/Taufik-H/github-readme-stats)
+
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning alone
+- 👯 I’m looking to collaborate on Facebook & Github
+
 <!--
 **Taufik-H/Taufik-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on something cool!
+- 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
