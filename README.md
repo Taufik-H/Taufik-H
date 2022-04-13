@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H)](https://github.com/Taufik-H/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik-H&layout=compact)](https://github.com/Taufik-H/github-readme-stats)
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning alone
 - 👯 I’m looking to collaborate on Facebook & Github
