@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Taufik-H](https://github.com/Taufik-H)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik-H&layout=compact)](https://github.com/Taufik-H/github-readme-stats)
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning alone
