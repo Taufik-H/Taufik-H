@@ -1,6 +1,6 @@
 ### Hi there and welcome👋
 
-![Taufik-H GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&range=last_3_years)
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning alone
