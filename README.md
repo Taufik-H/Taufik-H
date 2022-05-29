@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there and welcome👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik-H&layout=compact)](https://github.com/Taufik-H/github-readme-stats)
+![](https://raw.githubusercontent.com/Taufik-H/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Taufik-H/github-stats/master/generated/overview.svg#gh-light-mode-only)
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning alone
 - 👯 I’m looking to collaborate on Facebook & Github
