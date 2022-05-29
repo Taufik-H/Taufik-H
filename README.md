@@ -1,7 +1,7 @@
 ### Hi there and welcome👋
 
-![](https://raw.githubusercontent.com/Taufik-H/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Taufik-H/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Taufik-H GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&include_all_commits=true)
+
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning alone
 - 👯 I’m looking to collaborate on Facebook & Github
