@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![Taufik-H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taufik-H&custom_title=Taufik-H's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://leeyurani.com/)
+[![Taufik-H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taufik-H&custom_title=Taufik-H's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Taufik-H)
 
 ### Playground :
 - Tailwindcss
