@@ -1,22 +1,25 @@
-### Hi there and welcome👋
+<h1 align="center">
+  <b>Taufik Hidayatulloh</b>
+</h1>
+<p align="center">
+   Frontend web, UIUX Designer, bachelor of informatics engineering.
+ </p>
+<br/>
+<p align="center">
+  <a href="https://github.com/Taufik-H">
+    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=Taufik-H" />
+    &nbsp;
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufik-H&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&range=last_3_years)
+[![Taufik-H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taufik-H&custom_title=Taufik-H's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://leeyurani.com/)
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning alone
-- 👯 I’m looking to collaborate on Facebook & Github
+### Playground :
+- Tailwindcss
+- Laravel
+- React
+- Figma
 
-<!--
-**Taufik-H/Taufik-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support Me :
+<a href="https://www.buymeacoffee.com/opik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
