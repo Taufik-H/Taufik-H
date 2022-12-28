@@ -6,15 +6,14 @@
    Frontend web, UIUX Designer, bachelor of informatics engineering.
  </p>
 <br/>
-<p align="center">
-  <a href="https://github.com/Taufik-H">
-    <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=Taufik-H" />
-    &nbsp;
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufik-H&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 
-[![Taufik-H' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taufik-H&custom_title=Taufik-H's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Taufik-H)
+
+![](https://komarev.com/ghpvc/?username=Taufik-H&color=red)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&theme=dracula&border_radius=5)
+
+
+
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
 ### Playground :
 - Tailwindcss
