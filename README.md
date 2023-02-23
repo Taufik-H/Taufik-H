@@ -1,14 +1,4 @@
-<!--START_SECTION:waka-->
 
-```text
-From: 13 February 2023 - To: 22 February 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 <h1 align="center">
   <b>Taufik Hidayatulloh</b>
 </h1>
@@ -26,7 +16,17 @@ No activity tracked
 
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
 
+<!--START_SECTION:waka-->
 
+```text
+From: 13 February 2023 - To: 22 February 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 ### Playground :
 - Tailwindcss
 - Laravel
