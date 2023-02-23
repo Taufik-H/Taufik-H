@@ -1,4 +1,5 @@
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h1 align="center">
   <b>Taufik Hidayatulloh</b>
 </h1>
@@ -16,7 +17,7 @@
 
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ### Playground :
 - Tailwindcss
 - Laravel
