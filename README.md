@@ -15,6 +15,9 @@
 
 
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Playground :
 - Tailwindcss
 - Laravel
