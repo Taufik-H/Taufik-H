@@ -22,13 +22,6 @@
 From: 13 February 2023 - To: 05 March 2023
 
 Total Time: 6 hrs 4 mins
-
-JavaScript   2 hrs 4 mins    >>>>>>>>>----------------   34.05 %
-HTML         1 hr 40 mins    >>>>>>>------------------   27.42 %
-TypeScript   1 hr 20 mins    >>>>>>-------------------   22.13 %
-CSS          42 mins         >>>----------------------   11.77 %
-JSON         15 mins         >------------------------   04.24 %
-Other        1 min           -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
