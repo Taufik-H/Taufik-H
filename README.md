@@ -34,7 +34,7 @@ Other        1 min           -------------------------   00.30 %
 <!--END_SECTION:waka-->
 ### Playground :
 - Tailwindcss
-- Laravel
+- NextJs
 - React
 - Figma
 
