@@ -6,16 +6,23 @@
  </p>
 <br/>
 
+<div style="display:flex">
+  <div>
+    
 
+  
 ![](https://komarev.com/ghpvc/?username=Taufik-H&color=red)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Taufik-H/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Taufik-H/github-readme-stats#gh-light-mode-only)
-
+  </div>
+  
+  <div>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik-H&layout=compact)
-
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
-
+  </div>
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
