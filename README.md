@@ -12,6 +12,8 @@
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Taufik-H&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Taufik-H/github-readme-stats#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufik-H&layout=compact)
+
 [![@taufik's Holopin board](https://holopin.me/taufik)](https://holopin.io/@taufik)
 
 <!--START_SECTION:waka-->
