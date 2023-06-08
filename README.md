@@ -36,11 +36,4 @@ Bash             5 mins          -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
-### Playground :
-- Tailwindcss
-- NextJs
-- React
-- Figma
 
-### Support Me :
-<a href="https://www.buymeacoffee.com/opik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
