@@ -17,8 +17,8 @@
 </div>  
 <br/>
 <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Taufik-H&theme=default&hide_border=false&include_all_commits=true&count_private=true" style="vertical-align: top;" />
+  <div style="display: flex; align-items:center;" >
+    <img src="https://github-contribution-stats.vercel.app/api/?username=Taufik-H" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taufik-H&theme=default&hide_border=false" />
   </div>
 </div>
