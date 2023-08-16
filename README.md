@@ -1,5 +1,8 @@
-![readmebox](https://raw.githubusercontent.com/Taufik-H/Taufik-H/main/readmebox%20(1).svg)
+<div align="center">
+  
+![readmebox](https://github.com/Taufik-H/Taufik-H/blob/main/readmebox%20(2).svg)
 
+</div>
 <br/>
 <div align="center">
   <div style="display: flex; align-items:center;" >
